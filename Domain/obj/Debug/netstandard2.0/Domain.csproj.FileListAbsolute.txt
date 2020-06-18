@@ -1,0 +1,8 @@
+/Users/arielsonferreira/Desktop/MedyCorp/Domain/bin/Debug/netstandard2.0/Domain.deps.json
+/Users/arielsonferreira/Desktop/MedyCorp/Domain/bin/Debug/netstandard2.0/Domain.dll
+/Users/arielsonferreira/Desktop/MedyCorp/Domain/bin/Debug/netstandard2.0/Domain.pdb
+/Users/arielsonferreira/Desktop/MedyCorp/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/Users/arielsonferreira/Desktop/MedyCorp/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
+/Users/arielsonferreira/Desktop/MedyCorp/Domain/obj/Debug/netstandard2.0/Domain.csproj.CoreCompileInputs.cache
+/Users/arielsonferreira/Desktop/MedyCorp/Domain/obj/Debug/netstandard2.0/Domain.dll
+/Users/arielsonferreira/Desktop/MedyCorp/Domain/obj/Debug/netstandard2.0/Domain.pdb

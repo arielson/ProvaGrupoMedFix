@@ -1,0 +1,12 @@
+/Users/arielsonferreira/Desktop/MedyCorp/Respository/obj/Debug/netstandard2.0/Respository.csprojAssemblyReference.cache
+/Users/arielsonferreira/Desktop/MedyCorp/Respository/obj/Debug/netstandard2.0/Respository.AssemblyInfoInputs.cache
+/Users/arielsonferreira/Desktop/MedyCorp/Respository/obj/Debug/netstandard2.0/Respository.AssemblyInfo.cs
+/Users/arielsonferreira/Desktop/MedyCorp/Respository/obj/Debug/netstandard2.0/Respository.csproj.CoreCompileInputs.cache
+/Users/arielsonferreira/Desktop/MedyCorp/Respository/bin/Debug/netstandard2.0/Respository.deps.json
+/Users/arielsonferreira/Desktop/MedyCorp/Respository/bin/Debug/netstandard2.0/Respository.dll
+/Users/arielsonferreira/Desktop/MedyCorp/Respository/bin/Debug/netstandard2.0/Respository.pdb
+/Users/arielsonferreira/Desktop/MedyCorp/Respository/bin/Debug/netstandard2.0/Domain.dll
+/Users/arielsonferreira/Desktop/MedyCorp/Respository/bin/Debug/netstandard2.0/Domain.pdb
+/Users/arielsonferreira/Desktop/MedyCorp/Respository/obj/Debug/netstandard2.0/Respository.csproj.CopyComplete
+/Users/arielsonferreira/Desktop/MedyCorp/Respository/obj/Debug/netstandard2.0/Respository.dll
+/Users/arielsonferreira/Desktop/MedyCorp/Respository/obj/Debug/netstandard2.0/Respository.pdb

@@ -1,0 +1,12 @@
+/Users/arielsonferreira/Desktop/MedyCorp/DTO/bin/Debug/netstandard2.0/DTO.deps.json
+/Users/arielsonferreira/Desktop/MedyCorp/DTO/bin/Debug/netstandard2.0/DTO.dll
+/Users/arielsonferreira/Desktop/MedyCorp/DTO/bin/Debug/netstandard2.0/DTO.pdb
+/Users/arielsonferreira/Desktop/MedyCorp/DTO/bin/Debug/netstandard2.0/Domain.dll
+/Users/arielsonferreira/Desktop/MedyCorp/DTO/bin/Debug/netstandard2.0/Domain.pdb
+/Users/arielsonferreira/Desktop/MedyCorp/DTO/obj/Debug/netstandard2.0/DTO.csprojAssemblyReference.cache
+/Users/arielsonferreira/Desktop/MedyCorp/DTO/obj/Debug/netstandard2.0/DTO.AssemblyInfoInputs.cache
+/Users/arielsonferreira/Desktop/MedyCorp/DTO/obj/Debug/netstandard2.0/DTO.AssemblyInfo.cs
+/Users/arielsonferreira/Desktop/MedyCorp/DTO/obj/Debug/netstandard2.0/DTO.csproj.CoreCompileInputs.cache
+/Users/arielsonferreira/Desktop/MedyCorp/DTO/obj/Debug/netstandard2.0/DTO.csproj.CopyComplete
+/Users/arielsonferreira/Desktop/MedyCorp/DTO/obj/Debug/netstandard2.0/DTO.dll
+/Users/arielsonferreira/Desktop/MedyCorp/DTO/obj/Debug/netstandard2.0/DTO.pdb
